@@ -19,7 +19,7 @@ redirect_from:
 
 I received the M.Sc. degree in communication and information systems from Xiamen University in 2020. I am currently pursuing a Ph.D. degree in electronic and information engineering in The Hong Kong Polytechnic University.
 
-My research interest includes include natural language processing, bioinformatics, and machine learning.
+My research interests include natural language processing, bioinformatics, and machine learning.
 
 # 📝 Publications 
 - [Automatic Selection of Discriminative Features for Dementia Detection in Cantonese-Speaking People](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech22b.pdf), Xiaoquan Ke, Man-Wai Mak, Helen M Meng, **Proc. Interspeech 2022**
