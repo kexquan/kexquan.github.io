@@ -22,7 +22,9 @@ I received the M.Sc. degree in communication and information systems from Xiamen
 My research interest includes include natural language processing, bioinformatics, and machine learning.
 
 # 📝 Publications 
+- [Dual Dropout Ranking of Linguistic Features for Alzheimer's Disease Recognition](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa21b.pdf), Xiaoquan Ke, Man-Wai Mak, Jinchao Li, Helen M Meng, **2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)**
+- [Automatic Selection of Discriminative Features for Dementia Detection in Cantonese-Speaking People](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech22b.pdf), Xiaoquan Ke, Man-Wai Mak, Helen M Meng, **Proc. Interspeech 2022**
 
 # 📖 Educations
-- *2020.09 - (now)*, PhD, Major in Electronic and Information engineering, The Hong Kong Polytechnic University.
-- *2017.09 - 2020.06*, M.Sc., Major in Communication and Information systems, Xiamen University.
+- *2020.09 - (now)*, PhD, Major in Electronic and Information Engineering, The Hong Kong Polytechnic University.
+- *2017.09 - 2020.06*, M.Sc., Major in Communication and Information Systems, Xiamen University.
