@@ -22,7 +22,7 @@ I received the M.Sc. degree in communication and information systems from Xiamen
 My research interests include natural language processing, bioinformatics, and machine learning.
 
 # 📝 Publications
-- [Feature Selection and Text Embedding For Detecting Dementia from Spontaneous Cantonese], Xiaoquan Ke, Man-Wai Mak, Helen M Meng, **IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2023**
+- "Feature Selection and Text Embedding For Detecting Dementia from Spontaneous Cantonese", Xiaoquan Ke, Man-Wai Mak, Helen M Meng, **IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2023**
 - [Automatic Selection of Discriminative Features for Dementia Detection in Cantonese-Speaking People](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech22b.pdf), Xiaoquan Ke, Man-Wai Mak, Helen M Meng, **Proc. Interspeech 2022**
 - [Dual Dropout Ranking of Linguistic Features for Alzheimer's Disease Recognition](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa21b.pdf), Xiaoquan Ke, Man-Wai Mak, Jinchao Li, Helen M Meng, **2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)**
 
