@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaoquan Ke (柯晓权)"
+title: "Xiaoquan Ke"
 excerpt: "Postdoctoral Researcher in Spoken Language Processing & Voice AI"
 author_profile: true
 redirect_from: 
