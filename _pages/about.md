@@ -59,7 +59,7 @@ I am particularly interested in:
   Center for Perceptual and Interactive Intelligence (CPII) & Dept. of SEEM, The Chinese University of Hong Kong  
   Supervisor: Prof. Helen M. Meng
 
-- **Ph.D. in Electronic and Information Engineering** (2020.09 – 2023.08)  
+- **Ph.D. in Electrical and Electronic Engineering** (2020.09 – 2023.08)  
   The Hong Kong Polytechnic University  
   Supervisor: Prof. Man-Wai Mak
 
