@@ -68,7 +68,7 @@ I am particularly interested in:
 
 # 🔧 Skills
 
-- **Speech & Voice Tools**: openSMILE, Kaldi, SpeechBrain  
+- **Speech & Voice Tools**: openSMILE, Kaldi  
 - **Feature Sets**: ComParE, eGeMAPS, COVAREP, prosodic & voice quality features  
 - **Frameworks**: PyTorch, TensorFlow  
 - **Languages**: Python, MATLAB, Cantonese (native), Mandarin, English
