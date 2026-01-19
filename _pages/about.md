@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a **Postdoctoral Fellow** at the Center for Perceptual and Interactive Intelligence (CPII), The Chinese University of Hong Kong, working with **Prof. Helen Meng** (IEEE Fellow).  
+I am currently a **Postdoctoral Fellow** at The Chinese University of Hong Kong & Center for Perceptual and Interactive Intelligence (CPII), working with **Prof. Helen Meng** (IEEE Fellow).  
 
-I received my Ph.D. in Electronic and Information Engineering from The Hong Kong Polytechnic University in 2023 (supervised by **Prof. Man-Wai Mak**), and M.Sc. in Communication and Information Systems from Xiamen University in 2020.
+I received my Ph.D. in Electrical and Electronic Engineering from The Hong Kong Polytechnic University in 2023 (supervised by **Prof. Man-Wai Mak**), and M.Sc. in Communication and Information Systems from Xiamen University in 2020.
 
 My research focuses on **speech and voice signal processing**, **spoken language biomarkers**, **large language models (LLMs) for clinical speech analysis**, and **automatic detection of neurocognitive disorders** (e.g., dementia, Alzheimer's) from spontaneous Cantonese speech.
 
