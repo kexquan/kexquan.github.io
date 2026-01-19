@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaoquan Ke (柯晓权)"
+title                    : "Xiaoquan Ke"
 description              : "Academic Homepage"
 repository               : "kexquan/kexquan.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaoquan Ke (柯晓权)"
+  name             : "Xiaoquan Ke"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "The Hong Kong Polytechnic University, EIE, PhD"
+  bio              : "Center for Perceptual and Interactive Intelligence (CPII) & Dept. of SEEM, The Chinese University of Hong Kong, Postdoctoral Fellow"
   location         : "Hong Kong ASR, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "xiaoquan.ke@connect.polyu.hk"
+  email            : "kexquan@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
